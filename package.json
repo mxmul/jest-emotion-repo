@@ -1,0 +1,20 @@
+{
+  "engines": {
+    "node": "12.x.x"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "@babel/preset-env": "^7.11.5",
+    "@babel/preset-react": "^7.10.4",
+    "@emotion/core": "^10.0.35",
+    "@emotion/styled-base": "^10.0.31",
+    "babel-jest": "^26.3.0",
+    "babel-plugin-emotion": "^10.0.33",
+    "jest": "^26.4.2",
+    "jest-emotion": "^10.0.32",
+    "react": "^16.13.1",
+    "react-test-renderer": "^16.13.1"
+  }
+}
